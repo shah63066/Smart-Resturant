@@ -8,7 +8,7 @@ const Footer = () => {
           <div className="left">FryumTech</div>
           <div className="right">
             <p>Z6 Gulshan-e-Mirzapur, Uttar Pradesh</p>
-            <p>Open: 05:00 PM - 12:00 AM</p>
+            <p>Open: 10:00 AM - 12:00 AM</p>
           </div>
         </div>
         <div className="banner">
